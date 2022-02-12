@@ -378,7 +378,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 150vh;
-  background: url("../img/home_bg.jpg") center center;
+  background: url("../img/Dp.png") center center;
   background-size:cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -404,8 +404,9 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   color: #00aeff;
   margin-top: 20px;
-  margin-left: 44px;
-  font-size: 22px;
+  margin-left: 36px;
+  font-size: 25px;
+  font-weight: bold;
 }
 #hero .btn-about {
   font-family: "Raleway", sans-serif;
